@@ -1,5 +1,6 @@
-test('test ok', () => {
-  expect(true).toBeTruthy();
-})
 
+
+test('test one', () => {
+    expect(true).toBe(true);
+});
 
